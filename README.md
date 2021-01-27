@@ -23,7 +23,6 @@ For this project, I was interested in using The Movies Database to find out;
 ## File Descriptions
 <a id='filedescriptions'></a>
 There is one notebook available here to showcase work related to the above questions. Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells were used to assist in walking through the thought process for individual steps.
-Boston Data - contains 3 files;
 1. tmdb-movies.csv - Contains the movie details for top 100 movies on TMDb.
 
 ## Results
